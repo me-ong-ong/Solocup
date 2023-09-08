@@ -1,2 +1,2 @@
 # Solocup
-solo cup
+red solo cup filled with mungbeans
