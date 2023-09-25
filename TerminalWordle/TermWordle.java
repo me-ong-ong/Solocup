@@ -16,7 +16,7 @@ class Main {
         cls();
         draw();
         for(int i = 0; i<(chrs[0].length)/5;i++) { //draws all characters for testing
-            System.out.print(c[10]);
+            System.out.print(c[0]);
             letter(8+((i%5)*15),2+((i/5)*10),i);
             System.out.print(c[0]);
         }
