@@ -1,2 +1,3 @@
 # Solocup
-red solo cup filled with mungbeans
+mungbean(2)
+download the terminalwordle folder for the stuff
